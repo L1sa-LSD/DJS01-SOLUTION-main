@@ -1,7 +1,7 @@
 import { podcasts } from "./data.js";
 import { createModal } from "./components/createModal.js";
 import { createGrid } from "./views/createGrid.js";
-import "./components/prodcastPreview.js"; // Import to register the custom element
+import "./components/prodcastPreview.js"; // Import the podcast preview component
 /**
  * Initializes the podcast application.
  *
